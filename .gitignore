@@ -7,4 +7,5 @@
 .idea
 spark-warehouse/*
 target/*
-*.jar
+#*.jar
+*.iml

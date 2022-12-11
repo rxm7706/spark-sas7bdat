@@ -18,6 +18,12 @@ The latest jar can be downloaded from [spark-packages](http://spark-packages.org
 | 3.0.0-s_2.11 | 2.11.x        | 2.4.x         |
 | 3.0.0-s_2.12 | 2.12.x        | 3.0.x         |
 
+spark-sas7bdat\src\spark-sas7bdat-3.0.0_scala-2.11_parso-2.0.14_spark-2.3.2
+
+| Version      | Scala Version | Spark Version | Parso Version |
+| ------------ | ------------- | ------------- | ------------- |
+| spark-sas7bdat-3.0.0_scala-2.11_parso-2.0.14_spark-2.3.2        | 2.11.12        | 2.3.2         | 2.0.14         |
+
 ## Features:
 
 - This package allows reading SAS files from local and distributed filesystems, into Spark DataFrames.
